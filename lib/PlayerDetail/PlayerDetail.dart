@@ -1,0 +1,3 @@
+class PlayerDetail {
+  // TODO ADD
+}
